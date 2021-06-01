@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SaGaR GoYaL</h1>
-<h3 align="center">A passionate Developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/iamsagargoyal" target="blank"><img src="https://img.shields.io/twitter/follow/iamsagargoyal?logo=twitter&style=for-the-badge" alt="iamsagargoyal" /></a> </p>
 
