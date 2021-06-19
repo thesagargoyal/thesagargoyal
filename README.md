@@ -12,8 +12,10 @@
 **Languages I have used**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=339933)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 
 **Some of the technologies I have worked with**
 
