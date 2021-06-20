@@ -30,6 +30,11 @@
 
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/thesagargoyal/mern-blog)
 
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rajchowdhury420&theme=dracula" alt="Rajchowdhury420" />
+</p>
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=thesagargoyal&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesagargoyal&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
