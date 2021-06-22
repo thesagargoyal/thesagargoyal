@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Development and Coding stuff**
 
-- 📫 How to reach me **sagargoyal2015@gmail.com**
 
 **Languages I have used**
 
