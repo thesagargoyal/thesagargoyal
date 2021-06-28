@@ -1,3 +1,4 @@
+<p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
 <h1 align="center">Hi 👋, I'm SaGaR GoYaL</h1>
 <h3 align="center">A Passionate Developer</h3>
 
