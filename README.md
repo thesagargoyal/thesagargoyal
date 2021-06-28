@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
-<h1 align="center">Hi 👋, I'm SaGaR GoYaL</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm SaGaR GoYaL</h1>
 <h3 align="center">A Passionate Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/iamsagargoyal" target="blank"><img src="https://img.shields.io/twitter/follow/iamsagargoyal?logo=twitter&style=for-the-badge" alt="iamsagargoyal" /></a> </p>
