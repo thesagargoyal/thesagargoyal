@@ -30,6 +30,7 @@
 **Web/Full Stack projects**
 
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/thesagargoyal/mern-blog)
+[![MERN Blog](https://img.shields.io/badge/-🛒&nbsp;&nbsp;MERNecommerce-000000?style=flat)](https://github.com/thesagargoyal/mern-ecommerce)
 
 <p align="center"><h2>🔥 Streak Stats</h2></p>
 
