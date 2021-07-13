@@ -5,11 +5,6 @@
 <p align="center"> <a href="https://twitter.com/@iamsagargoyal"><img src="https://img.shields.io/badge/twitter-@iamsagargoyal-1da1f2?style=flat-square&logo=twitter">  </a> <a href="https://www.linkedin.com/in/sagar-goyal-63aa5b1a8/"><img src="https://img.shields.io/badge/linkedin-SagarGoyal-0077b5?style=flat-square&logo=linkedin">  </a> </p>
 
 
-- 🌱 I’m currently learning **Web Dev**
-
-- 💬 Ask me about **Development and Coding stuff**
-
-
 **Languages I have used**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
