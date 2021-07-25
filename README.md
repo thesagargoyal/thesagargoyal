@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm SaGaR GoYaL</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">Passionate Developer</h3>
 
 <p align="center"> <a href="https://twitter.com/@iamsagargoyal"><img src="https://img.shields.io/badge/twitter-@iamsagargoyal-1da1f2?style=flat-square&logo=twitter">  </a> <a href="https://www.linkedin.com/in/sagar-goyal-63aa5b1a8/"><img src="https://img.shields.io/badge/linkedin-SagarGoyal-0077b5?style=flat-square&logo=linkedin">  </a> </p>
 
