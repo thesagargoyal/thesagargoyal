@@ -33,9 +33,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thesagargoyal&theme=dracula" alt="thesagargoyal" />
 </p>
 
-<p align="center">
-![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=thesagargoyal&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/thesagargoyal"></a>
-  </p>
+![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=thesagargoyal&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/thesagargoyal">
  
 <a href="https://github.com/thesagargoyal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesagargoyal&layout=compact&theme=radical"/></a>
 
