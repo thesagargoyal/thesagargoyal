@@ -27,14 +27,14 @@
 [![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/thesagargoyal/mern-blog)
 [![MERN Blog](https://img.shields.io/badge/-🛒&nbsp;&nbsp;MERNEcommerce-000000?style=flat)](https://github.com/thesagargoyal/mern-ecommerce)
 
-<p align="center"><h2>🔥 Streak Stats</h2></p>
+<p align="center"><h2> 🔥 Streak Stats</h2></p>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thesagargoyal&theme=dracula" alt="thesagargoyal" />
 </p>
 
 
-![Raj's github stats](https://github-readme-stats.vercel.app/api?username=Rajchowdhury420&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Rajchowdhury420">
+![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=thesagargoyal&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/thesagargoyal">
  
  
 <a href="https://github.com/thesagargoyal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesagargoyal&layout=compact&theme=radical"/></a>
